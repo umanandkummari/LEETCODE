@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd4782d8-6d45-4a79-8770-1a1d4a863cff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
+    <list default="true" id="dd4782d8-6d45-4a79-8770-1a1d4a863cff" name="Changes" comment="array">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SortArrayByParity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677227235966</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="array">
+      <created>1677266961745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677266961745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
